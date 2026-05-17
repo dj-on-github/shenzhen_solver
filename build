@@ -1,0 +1,2 @@
+g++ -O3 -std=c++17 -Wall -pthread shenzhen_solver.cpp -o shenzhen_solver
+
