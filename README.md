@@ -7,7 +7,7 @@ so the perception of solvability by human players is closer to 50%
 while the actual solvability is certainly rate above 98%.
 
 This uses pthreads to run many simulated games and determines whether or
-not the game game be solved. It returns the pass/fail rate. It defaults
+not the game can be solved. It returns the pass/fail rate. It defaults
 to 10,000 runs.
 
 This is fairly slow. Some games resolve quickly and some have a very deep
